@@ -15,7 +15,7 @@ Se non è stato già fatto, è necessario chiedere a un membro di SprintFloyd di
 ### Aggiungere un Dev a CSW-Teams
 È sufficiente cliccare sul bottone dedicato e specificare l'username del membro del DevTeam (D'ora in poi Dev) registrato su GitHub.
 
-![](figs/Screenshot_20230221_134356.png)
+![](https://github.com/CSW-Teams/.github/blob/main/profile/figs/Screenshot_20230221_134356.png)
 
 Di default, il Dev sarà invitato a partecipare all'organizzazione con i privilegi di `admin`. È possibile cambiare ciò nelle impostazioni dell'organizzazione.
 
